@@ -3,6 +3,10 @@
 - 👀 I’m interested in [Python](https://www.python.org/) & [Lua](https://www.lua.org/).
 - 📫 Reach me on Discord: g.to
 
+  things i've worked on:
+- IdiotHub ( <a href="https://github.com/IdiotHub/Scripts" target="_blank">GitHub</a> | <a href="https://discord.gg/WNX8qDmEVn" target="_blank">Discord</a> )
+  - A small pet simulator feature with moderness in mind, reliable functionality and ease of use.
+
 <img src="https://discord.c99.nl/widget/theme-1/1042579472202866688.png"/>
 
 <h3 align="left">Languages and Tools:</h3>
