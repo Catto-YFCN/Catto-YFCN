@@ -5,7 +5,7 @@
 
   things i've worked on:
 - IdiotHub ( <a href="https://github.com/IdiotHub/Scripts" target="_blank">GitHub</a> | <a href="https://discord.gg/WNX8qDmEVn" target="_blank">Discord</a> )
-  - A small pet simulator feature with moderness in mind, reliable functionality and ease of use.
+  - A small pet simulator script with feature and moderness in mind, reliable functionality and ease of use.
 
 <img src="https://discord.c99.nl/widget/theme-1/1042579472202866688.png"/>
 
