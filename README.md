@@ -4,6 +4,8 @@
 - 📫 Reach me on Discord: g.to
 
   things i've worked on:
+- GatoHub ( <a href="https://github.com/Catto-YFCN/GatoHub" target="_blank">GitHub</a> | <a href="https://discord.gg/xMgHbPgaGb" target="_blank">Discord</a> )
+  - A big pet catchers script with nearly every feature you'd ever need.
 - IdiotHub ( <a href="https://github.com/IdiotHub/Scripts" target="_blank">GitHub</a> | <a href="https://discord.gg/WNX8qDmEVn" target="_blank">Discord</a> )
   - A small pet simulator script with feature and moderness in mind, reliable functionality and ease of use.
 
