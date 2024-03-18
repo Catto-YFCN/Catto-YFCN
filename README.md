@@ -6,6 +6,9 @@
   things i've worked on:
 - GatoHub ( <a href="https://github.com/Catto-YFCN/GatoHub" target="_blank">GitHub</a> | <a href="https://discord.gg/xMgHbPgaGb" target="_blank">Discord</a> )
   - A big pet catchers script with nearly every feature you'd ever need.
+
+- The Hunt Helper ( <a href="https://github.com/Catto-YFCN/GatoHub/blob/main/TheHunt" target="_blank">GitHub</a> | <a href="https://discord.gg/gatohub" target="_blank">Discord</a> )
+  - A script made for assisting users with completing over 30 games in Roblox's " The Hunt: First Edition ", made as a collaborative effort between many talented developers.
 - IdiotHub ( <a href="https://github.com/IdiotHub/Scripts" target="_blank">GitHub</a> | <a href="https://discord.gg/WNX8qDmEVn" target="_blank">Discord</a> )
   - A small pet simulator script with feature and moderness in mind, reliable functionality and ease of use.
 
